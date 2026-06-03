@@ -132,7 +132,7 @@ export function ClassifiedsView({ searchQuery }: ClassifiedsProps) {
         <div>
           <p className="text-xs font-semibold text-darden-orange mb-0.5">How to contact sellers</p>
           <p className="text-xs text-foreground/80 leading-relaxed">
-            Full contact numbers are masked for privacy. Search with the last 4-digits displayed among the WhatsApp group members to find the poster.
+            Full contact numbers are masked for privacy. Copy the last 4-digits displayed and search in the WhatsApp group members to find the original poster.
           </p>
         </div>
       </div>
