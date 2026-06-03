@@ -193,12 +193,12 @@ function RecruitmentCard({ item }: { item: Recruitment }) {
 type SubTab = 'resources' | 'peer-intel'
 
 const SUB_TABS: { id: SubTab; label: string }[] = [
-  { id: 'resources', label: 'Resources & Links' },
+  { id: 'resources', label: 'Resources' },
   { id: 'peer-intel', label: 'Peer Intel' },
 ]
 
 export function RecruitmentView({ searchQuery }: RecruitmentProps) {
-  const [activeTab, setActiveTab] = useState<Track>('general')
+  const [activeTab, setActiveTab] = useState<Track>('consulting')
   const [activeSubTab, setActiveSubTab] = useState<SubTab>('resources')
   const [cards, setCards] = useState<Recruitment[]>([])
   const [loading, setLoading] = useState(true)
