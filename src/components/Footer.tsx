@@ -101,8 +101,8 @@ export function Footer() {
         </div>
 
         <div className="mt-8 pt-4 border-t border-border/50 flex items-center justify-between">
-          <p className="text-xs text-muted-foreground/50">Section Zero · Class of 2028 · Charlottesville, VA</p>
-          <p className="text-xs text-muted-foreground/50">Built with 🤍 and panic by Ramprasath</p>
+          <p className="text-xs text-muted-foreground/">Section Zero · Class of 2028 · Charlottesville, VA</p>
+          <p className="text-xs text-muted-foreground/">Built with 🤍 and panic by Ramprasath</p>
         </div>
       </div>
     </footer>
