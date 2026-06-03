@@ -53,7 +53,7 @@ export function Home({ searchQuery }: HomeProps) {
           </div>
           <h1 className="text-2xl font-bold tracking-tight">Welcome to Section Zero</h1>
           <p className="mt-2 text-white/70 text-sm leading-relaxed max-w-lg">
-            "Helping you adult before your real Section takes over" <br></br>Everything from the WhatsApp groups — organized, searchable, and (mostly) accurate.
+            <i>"Helping you adult before your real Section takes over" </i><br></br>Everything from the WhatsApp groups — organized, searchable, and (mostly) accurate.
           </p>
         </div>
       </div>
