@@ -1,6 +1,8 @@
-# Section Zero
+# Section Zero (Unofficial)
 
 A central pre-arrival platform built for incoming Darden students to navigate the chaotic runway to business school. This application parses, structures, and transforms massive, unstructured peer-to-peer WhatsApp chat logs into an actionable, mobile-first dashboard. 
+
+👉 **[Check it out here: Section Zero:](https://section-zero.bolt.host/)**
 
 ---
 
@@ -9,6 +11,15 @@ A central pre-arrival platform built for incoming Darden students to navigate th
 Before arriving on campus, incoming MBA cohorts exchange thousands of critical messages containing recruiting links, housing leads, and logistics advice. Important details quickly get buried in chat history. 
 
 **Section Zero** acts as the definitive knowledge base—saving students from scrolling endlessly through text archives by converting conversational data into organized, intuitive UI components.
+
+---
+
+## 🤖 AI & Multi-Agent Architecture
+
+This platform was built leveraging advanced AI engineering, utilizing a specialized mix of AI agents designed to balance technical execution with extreme resource optimization:
+
+*   **Problem-Solving Execution:** Autonomous code agents handled complex application layouts, state persistence, and client-side database synchronization.
+*   **Token Efficiency Optimization:** Implemented a decoupled architecture, shifting heavy string-parsing and data-structuring workloads away from the core generation loops. This multi-agent strategy drastically minimized token consumption while eliminating model hallucinations during massive log processing.
 
 ---
 
@@ -35,5 +46,3 @@ This project demonstrates an end-to-end product development lifecycle:
 1. **Identifying a User Friction Point:** Recognizing data fragmentation within a high-engagement community.
 2. **Technical Problem Solving:** Architecting a parsing engine to clean messy string data and mapping it to structural JSON layouts without data duplication.
 3. **Resource Constraint Engineering:** Implementing a link-based media submission model to ensure zero backend storage costs while preserving the frontend visual layout.
-
-**[Check it out here: Section Zero: Grad Cohort Onboarding](https://section-zero.bolt.host/)**
