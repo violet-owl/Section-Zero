@@ -5,10 +5,10 @@ import { supabase, type Recruitment } from '@/lib/supabase'
 type Track = 'general' | 'consulting' | 'ib' | 'tech'
 
 const TABS: { id: Track; label: string }[] = [
-  { id: 'general', label: 'General' },
   { id: 'consulting', label: 'Consulting' },
   { id: 'ib', label: 'Investment Banking' },
   { id: 'tech', label: 'Tech' },
+  { id: 'general', label: 'General' }
 ]
 
 const CATEGORY_LABELS: Record<string, string> = {
