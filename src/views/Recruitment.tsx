@@ -300,10 +300,6 @@ export function RecruitmentView({ searchQuery }: RecruitmentProps) {
           ))}
         </div>
       )}
-
-      <p className="text-xs text-muted-foreground text-center pt-2">
-        All content above was sourced from the Darden Class of 2028 WhatsApp groups. Nothing here is made up or externally recommended.
-      </p>
     </div>
   )
 }
