@@ -44,7 +44,7 @@ export function Home({ searchQuery }: HomeProps) {
   return (
     <div className="space-y-8">
       {/* Hero */}
-      <div className="rounded-2xl bg-darden-navy text-white px-6 py-8 relative overflow-hidden">
+      <div className="rounded-2xl bg-darden-navy text-white px-8 py-8 relative overflow-hidden">
         <div className="absolute inset-0 opacity-10" style={{ backgroundImage: 'repeating-linear-gradient(45deg, transparent, transparent 10px, rgba(255,255,255,0.1) 10px, rgba(255,255,255,0.1) 11px)' }} />
         <div className="relative">
           <div className="inline-flex items-center gap-2 rounded-full bg-darden-orange/20 border border-darden-orange/30 px-3 py-1 text-xs text-darden-orange font-medium mb-3">
