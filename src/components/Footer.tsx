@@ -69,7 +69,7 @@ export function Footer() {
                   <Input
                     value={contact}
                     onChange={(e) => setContact(e.target.value)}
-                    placeholder="Email or name (optional)"
+                    placeholder="Email"
                     className="text-sm h-8"
                   />
                   <Button
