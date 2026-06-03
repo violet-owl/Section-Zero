@@ -16,7 +16,7 @@ export function Header({ searchQuery, onSearchChange }: HeaderProps) {
           </div>
           <div className="leading-tight">
             <div className="text-sm font-bold text-white tracking-wide">Section Zero</div>
-            <div className="text-[10px] text-white/60 leading-none">Class of 2028</div>
+            <div className="text-[10px] text-white/60 leading-none">The Pre-Matriculation Bunker</div>
           </div>
         </div>
         <div className="flex-1 relative max-w-sm ml-auto">
