@@ -244,7 +244,7 @@ export function RecruitmentView({ searchQuery }: RecruitmentProps) {
       <div>
         <h2 className="text-xl font-bold text-foreground">Recruiting</h2>
         <p className="text-sm text-muted-foreground mt-1">
-          Tips, timelines, and resources — sourced directly from the Class of 2028 WhatsApp groups.
+          Choosing your track is hard enough. Finding the resources shouldn't be. Here's everything to get you started.
         </p>
       </div>
 
