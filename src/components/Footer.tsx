@@ -34,8 +34,8 @@ export function Footer() {
         <div className="grid gap-8 md:grid-cols-2">
           {/* Feedback */}
           <div>
-            <h3 className="text-sm font-semibold text-foreground mb-1">Send Feedback</h3>
-            <p className="text-xs text-muted-foreground mb-4">Bug spotted? Feature idea? Just wanna say hi? We''re all classmates here.</p>
+            <h3 className="text-sm font-semibold text-foreground mb-1">Submit Feedback</h3>
+            <p className="text-xs text-muted-foreground mb-4">Bug spotted? Feature idea? Just wanna say hi?</p>
             {submitted ? (
               <div className="rounded-lg border border-darden-orange/30 bg-darden-orange/5 p-4 text-sm text-foreground">
                 Got it! Thanks for making Section Zero better. You''re the real MVP.
