@@ -95,7 +95,7 @@ export function Footer() {
               The Classifieds section operates on an honor system. Buyers and sellers are responsible for their own due diligence. Submit feedback to remove any PII.
             </p>
             <p className="text-xs text-muted-foreground/60 leading-relaxed mt-3">
-              Section Zero is not affiliated with the University of Virginia, Darden School of Business, or any official student organization. No liability is assumed for any loss, confusion, or existential dread arising from the use of this site.
+              Section Zero is not affiliated with the University of Virginia, Darden School of Business, or any official student organization. No liability is assumed for any loss, confusion, (or existential dread) arising from the use of this site.
             </p>
           </div>
         </div>
