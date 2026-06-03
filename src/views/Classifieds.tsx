@@ -107,22 +107,11 @@ export function ClassifiedsView({ searchQuery }: ClassifiedsProps) {
 
   return (
     <div className="space-y-5">
-      {/* Contact Banner */}
-      <div className="flex items-start gap-3 rounded-lg border border-darden-orange/60 bg-darden-orange/10 px-4 py-3.5">
-        <MessageSquare className="h-5 w-5 text-darden-orange shrink-0 mt-0.5" />
-        <div>
-          <p className="text-xs font-semibold text-darden-orange mb-0.5">How to contact sellers</p>
-          <p className="text-xs text-foreground/80 leading-relaxed">
-            Full contact numbers are masked for privacy. Search with the last 4-digits displayed among the WhatsApp group members to find the poster.
-          </p>
-        </div>
-      </div>
-
       {/* Header row */}
       <div className="flex items-center justify-between gap-3">
         <div>
           <h2 className="text-xl font-bold text-foreground">Classifieds</h2>
-          <p className="text-xs text-muted-foreground">A Darden Marketplace. Keep it clean!</p>
+          <p className="text-sm text-muted-foreground">A Darden Marketplace. Keep it clean!</p>
         </div>
         <Button
           size="sm"
@@ -137,7 +126,16 @@ export function ClassifiedsView({ searchQuery }: ClassifiedsProps) {
           {showForm ? <><X className="h-3.5 w-3.5" /> Cancel</> : <><Plus className="h-3.5 w-3.5" /> Post Ad</>}
         </Button>
       </div>
-
+      {/* Contact Banner */}
+      <div className="flex items-start gap-3 rounded-lg border border-darden-orange/60 bg-darden-orange/10 px-4 py-3.5">
+        <MessageSquare className="h-5 w-5 text-darden-orange shrink-0 mt-0.5" />
+        <div>
+          <p className="text-xs font-semibold text-darden-orange mb-0.5">How to contact sellers</p>
+          <p className="text-xs text-foreground/80 leading-relaxed">
+            Full contact numbers are masked for privacy. Search with the last 4-digits displayed among the WhatsApp group members to find the poster.
+          </p>
+        </div>
+      </div>
       {/* Post Form */}
       {showForm && (
         <Card className="border-darden-orange/30">
