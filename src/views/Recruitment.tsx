@@ -244,7 +244,7 @@ export function RecruitmentView({ searchQuery }: RecruitmentProps) {
       <div>
         <h2 className="text-xl font-bold text-foreground">Recruiting</h2>
         <p className="text-sm text-muted-foreground mt-1">
-          Choosing your track is hard enough. Finding the resources shouldn't be! Here's everything (so far) to get you started for internships
+          Choosing your track is hard enough. Finding the resources shouldn't be! Here's everything (so far) to get you started for internships.
         </p>
       </div>
 
