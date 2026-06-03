@@ -2,8 +2,6 @@
 
 A central pre-arrival platform built for incoming Darden students to navigate the chaotic runway to business school. This application parses, structures, and transforms massive, unstructured peer-to-peer WhatsApp chat logs into an actionable, mobile-first dashboard. 
 
-👉 **[Check it out here: Section Zero:](https://section-zero.bolt.host/)**
-
 ---
 
 ## 🎯 The Problem & The Solution
@@ -46,3 +44,5 @@ This project demonstrates an end-to-end product development lifecycle:
 1. **Identifying a User Friction Point:** Recognizing data fragmentation within a high-engagement community.
 2. **Technical Problem Solving:** Architecting a parsing engine to clean messy string data and mapping it to structural JSON layouts without data duplication.
 3. **Resource Constraint Engineering:** Implementing a link-based media submission model to ensure zero backend storage costs while preserving the frontend visual layout.
+
+👉 **[Check it out here: Section Zero:](https://section-zero.bolt.host/)**
