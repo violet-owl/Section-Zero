@@ -89,20 +89,20 @@ export function Footer() {
           <div>
             <h3 className="text-sm font-semibold text-foreground mb-1">A Note on This Site</h3>
             <p className="text-xs text-muted-foreground leading-relaxed">
-              I built this as a classmate helping classmates — not as a Darden-affiliated resource. The information here was crowdsourced from our WhatsApp groups and is provided as-is. Things change, prices fluctuate, listings expire, and life happens. Always verify anything critical (visa deadlines, lease terms, health requirements) directly with official sources.
+              The information here was crowdsourced from multiple Class of 2028 WhatsApp groups. Expect certain degree of knowledge contamination from the usage of AI in classification and coding. Always verify anything critical (deadlines, lease terms, health requirements, etc.) directly with official sources.
             </p>
             <p className="text-xs text-muted-foreground leading-relaxed mt-2">
-              The Classifieds section operates on an honor system. I have no way to verify listings or mediate disputes — buyers and sellers are responsible for their own due diligence. Historical contact numbers have been masked for privacy.
+              The Classifieds section operates on an honor system. I have no way to verify listings or mediate disputes — buyers and sellers are responsible for their own due diligence. Submit feedback to remove any PII.
             </p>
             <p className="text-xs text-muted-foreground/60 leading-relaxed mt-3">
-              Section Zero is not affiliated with the University of Virginia, Darden School of Business, or any official student organization. No liability is assumed for any loss, confusion, or existential dread arising from the use of this site. Go get that MBA. You''ve earned it.
+              Section Zero is not affiliated with the University of Virginia, Darden School of Business, or any official student organization. No liability is assumed for any loss, confusion, or existential dread arising from the use of this site.
             </p>
           </div>
         </div>
 
         <div className="mt-8 pt-4 border-t border-border/50 flex items-center justify-between">
           <p className="text-xs text-muted-foreground/50">Section Zero · Class of 2028 · Charlottesville, VA</p>
-          <p className="text-xs text-muted-foreground/50">Built with love (and panic) by a classmate</p>
+          <p className="text-xs text-muted-foreground/50">Built with 🤍 and panic by Ramprasath</p>
         </div>
       </div>
     </footer>
