@@ -111,7 +111,7 @@ export function ClassifiedsView({ searchQuery }: ClassifiedsProps) {
       <div className="flex items-center justify-between gap-3">
         <div>
           <h2 className="text-xl font-bold text-foreground">Classifieds</h2>
-          <p className="text-sm text-muted-foreground">A Darden Marketplace. Keep it clean!</p>
+          <p className="text-sm text-muted-foreground">The Unofficial Darden Marketplace. Keep it clean!</p>
         </div>
         <Button
           size="sm"
