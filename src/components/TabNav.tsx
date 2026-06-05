@@ -1,5 +1,5 @@
 import { cn } from '@/lib/utils'
-import { Home, Briefcase, Building2, MapPin, ShoppingBag, CheckSquare } from 'lucide-react'
+import { Home, Briefcase, MapPin, ShoppingBag, CheckSquare } from 'lucide-react'
 
 export type TabId = 'home' | 'recruitment' | 'housing' | 'logistics' | 'classifieds' | 'todo'
 
