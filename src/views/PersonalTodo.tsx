@@ -101,7 +101,7 @@ export function PersonalTodoView({ searchQuery }: PersonalTodoProps) {
       <div>
         <h2 className="text-xl font-bold text-foreground">My To-Do List</h2>
         <p className="text-sm text-muted-foreground mt-1">
-          Shared cohort checklist on the left, your private tasks on the right.
+          Shared cohort checklist and your private tasks.
         </p>
       </div>
 
