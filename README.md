@@ -1,4 +1,4 @@
-# Section Zero (Unofficial)
+# Section Zero
 
 A central pre-arrival platform built for incoming Darden students to navigate the chaotic runway to business school. This application parses, structures, and transforms massive, unstructured peer-to-peer WhatsApp chat logs into an actionable, mobile-first dashboard. 
 
